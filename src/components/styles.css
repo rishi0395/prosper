@@ -1,0 +1,6 @@
+.card:active,
+.card:focus
+{
+    border: "1px solid #00c";
+    color:#00c;
+ }

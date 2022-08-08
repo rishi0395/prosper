@@ -1,0 +1,6 @@
+export const SET_ACTIVE_STEP_STATE = "app/SET_ACTIVE_STEP_STATE";
+export const SET_DISPLAY_NAME = "app/SET_DISPLAY_NAME";
+export const SET_FULL_NAME = "app/SET_FULL_NAME";
+export const SET_WORKSPACE_NAME = "app/SET_WORKSPACE_NAME";
+export const SET_WORKSPACE_URL = "app/SET_WORKSPACE_URL";
+export const SET_WORKSPACE_TYPE = "app/SET_WORKSPACE_TYPE";
